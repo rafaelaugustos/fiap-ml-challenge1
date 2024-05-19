@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+pydantic==1.10.7
+fastapi-jwt-auth
